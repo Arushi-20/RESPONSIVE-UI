@@ -5,6 +5,8 @@ A modern and responsive career guidance platform designed to help users explore 
 
 Built with **HTML5** and **Tailwind CSS**, CareerNexus AI focuses on delivering a seamless user experience across desktop, tablet, and mobile devices.
 
+🔗 Live Demo: [Visit CareerNexus AI](https://careernexus-1.netlify.app/)
+
 ---
 
 ## 📖 Overview
